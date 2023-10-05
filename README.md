@@ -6,11 +6,11 @@
 If you prefer to read the README in English, [click here](README.en.md).
 
 ## 📄 Sobre
-The <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Professional Certification</a> consists of 10 online courses that provide the tools and skills to succeed in data science, including use of open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms. 
+O <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Professional Certification</a> é composto por 10 cursos online que oferecem as ferramentas e habilidades essenciais para se destacar na área de ciência de dados. Os cursos abrangem o uso de ferramentas e bibliotecas de código aberto, programação em Python, gerenciamento de bancos de dados, SQL, visualização de dados, análise de dados, estatísticas, modelagem preditiva e algoritmos de aprendizado de máquina.
 
-This repository contains documentation and resources used to complete the certification, relevant notes and other code snippets, and proof of certification for each course.
+Neste repositório, você encontrará documentação e recursos utilizados durante a certificação, notas relevantes, trechos de código úteis, e os certificados de conclusão de cada curso.
 
-## 📑 Courses
+## 📑 Cursos
 - :white_check_mark: [01. What is Data Science?](01.%20What%20is%20Data%20Science/)
 - :white_check_mark: [02. Tools for Data Science](02.%20Tools%20for%20Data%20Science/)
 - :white_check_mark: [03. Data Science Methodology](03.%20Data%20Science%20Methodology)
@@ -22,7 +22,7 @@ This repository contains documentation and resources used to complete the certif
 - :white_check_mark: [09. Machine Learning with Python](09.%20Machine%20Learning%20with%20Python/)
 - :white_check_mark: [10. Applied Data Science Capstone](10.%20Applied%20Data%20Science%20Capstone/)
 
-- ## 🛠️ Tools
+- ## 🛠️ Ferramentas
 The following tools were used to complete this certification: <br> <br>
   <img src="https://user-images.githubusercontent.com/84391594/152705364-f16bb223-41aa-4510-8113-51171dfe9953.png" height="75">
   <img src="https://user-images.githubusercontent.com/84391594/152705271-083f8784-b3c9-4065-9733-ea3fa8ad5a7a.png" height="75">
@@ -32,7 +32,7 @@ The following tools were used to complete this certification: <br> <br>
 </p>
 (Python, Jupyter, GitHub, IBM Watson Studio, IBM Cloud Pak)
 
-## 📖 Libraries
+## 📖 Bibliotecas
 The following Python libraries were used throughout the certification: <br> 
 <p align="left">
   <img  src="https://user-images.githubusercontent.com/84391594/152706127-ce41990f-2588-472a-b5df-6b403a5947e6.png" height="35">
@@ -45,6 +45,6 @@ The following Python libraries were used throughout the certification: <br>
   <img  src="https://user-images.githubusercontent.com/84391594/152706217-c0cfd9d8-22ad-4c3b-9ac7-70a6cf2799f7.png" height="35"> <br>
 </p>
 
-## 📂 Projects
+## 📂 Projetos
 
-## 🏆 Certificates 
+## 🏆 Certificados 
