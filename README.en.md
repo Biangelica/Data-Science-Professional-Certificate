@@ -8,7 +8,7 @@
 Se você prefere ler o README em português, [clique aqui](README.pt.md).
 
 
-## :newspaper: About
+## :pencil: About
 The <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Professional Certification</a> comprises 10 online courses designed to equip individuals with the essential tools and skills for success in data science. The courses cover a wide range of topics, including the use of open source tools and libraries, Python programming, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms.
 
 Within this repository, you will find documentation and resources essential for completing the certification. This includes relevant notes, code snippets, and proof of certification for each course.
