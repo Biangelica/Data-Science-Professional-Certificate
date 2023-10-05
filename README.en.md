@@ -20,10 +20,10 @@ Within this repository, you will find documentation and resources essential for 
 - :white_check_mark: [04. Python for Data Science, AI & Development](04.%20Python%20for%20Data%20Science%2C%20AI%20%26%20Development/)
 - :white_check_mark: [05. Python Project for Data Science](05.%20Python%20Project%20for%20Data%20Science/)
 - :white_check_mark: [06. Databases and SQL for Data Science with Python](06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/)
-- :white_check_mark: [07. Data Analysis with Python](07.%20Data%20Analysis%20with%20Python/)
-- :white_check_mark: [08. Data Visualization with Python](08.%20Data%20Visualization%20with%20Python/)
-- :white_check_mark: [09. Machine Learning with Python](09.%20Machine%20Learning%20with%20Python/)
-- :white_check_mark: [10. Applied Data Science Capstone](10.%20Applied%20Data%20Science%20Capstone/)
+- [07. Data Analysis with Python](07.%20Data%20Analysis%20with%20Python/)
+- [08. Data Visualization with Python](08.%20Data%20Visualization%20with%20Python/)
+- [09. Machine Learning with Python](09.%20Machine%20Learning%20with%20Python/)
+- [10. Applied Data Science Capstone](10.%20Applied%20Data%20Science%20Capstone/)
 
 
 - ## 🛠️ Tools
