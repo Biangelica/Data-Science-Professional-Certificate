@@ -2,7 +2,9 @@
 
 ![ViewCount](https://views.whatilearened.today/views/github/Biangelica/Data-Science-Professional-Certification.svg?cache=remove)
 
-## :speaker: English Version
+[![Header](https://user-images.githubusercontent.com/84391594/152703941-8c1b3e93-7358-4274-8c7d-b152d3132814.png)](https://www.coursera.org/professional-certificates/ibm-data-science)
+
+## English Version
 If you prefer to read the README in English, [click here](README.en.md).
 
 ## 📄 Sobre
@@ -23,7 +25,7 @@ Neste repositório, você encontrará documentação e recursos utilizados duran
 - :white_check_mark: [10. Applied Data Science Capstone](10.%20Applied%20Data%20Science%20Capstone/)
 
 - ## 🛠️ Ferramentas
-The following tools were used to complete this certification: <br> <br>
+As ferramentas a seguir foram usadas a certificação:<br> <br>
   <img src="https://user-images.githubusercontent.com/84391594/152705364-f16bb223-41aa-4510-8113-51171dfe9953.png" height="75">
   <img src="https://user-images.githubusercontent.com/84391594/152705271-083f8784-b3c9-4065-9733-ea3fa8ad5a7a.png" height="75">
   <img src="https://user-images.githubusercontent.com/84391594/152705273-adffe1bf-b509-44d0-b3ac-671cce5071df.svg" height="75">
@@ -33,7 +35,7 @@ The following tools were used to complete this certification: <br> <br>
 (Python, Jupyter, GitHub, IBM Watson Studio, IBM Cloud Pak)
 
 ## 📖 Bibliotecas
-The following Python libraries were used throughout the certification: <br> 
+As bibliotecas a seguir foram usadas para a certificação: <br> 
 <p align="left">
   <img  src="https://user-images.githubusercontent.com/84391594/152706127-ce41990f-2588-472a-b5df-6b403a5947e6.png" height="35">
   <img  src="https://user-images.githubusercontent.com/84391594/152706130-5577011e-ecb3-47aa-af73-f6bd1bda05bc.png" height="35">
