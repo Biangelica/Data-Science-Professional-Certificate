@@ -24,7 +24,7 @@ Neste repositório, você encontrará documentação e recursos utilizados duran
 - [09. Machine Learning with Python](09.%20Machine%20Learning%20with%20Python/)
 - [10. Applied Data Science Capstone](10.%20Applied%20Data%20Science%20Capstone/)
 
-- ## 🛠️ Ferramentas
+ ## 🛠️ Ferramentas
 As ferramentas a seguir foram usadas a certificação:<br> <br>
   <img src="https://user-images.githubusercontent.com/84391594/152705364-f16bb223-41aa-4510-8113-51171dfe9953.png" height="75">
   <img src="https://user-images.githubusercontent.com/84391594/152705271-083f8784-b3c9-4065-9733-ea3fa8ad5a7a.png" height="75">
