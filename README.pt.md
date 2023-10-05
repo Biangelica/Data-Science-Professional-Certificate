@@ -2,7 +2,7 @@
 
 ![ViewCount](https://views.whatilearened.today/views/github/Biangelica/Data-Science-Professional-Certification.svg?cache=remove)
 
-## English Version
+## :speaker: English Version
 If you prefer to read the README in English, [click here](README.en.md).
 
 ## 📄 Sobre
