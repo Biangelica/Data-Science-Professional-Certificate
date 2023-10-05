@@ -1,6 +1,6 @@
 # Data-Science-Professional-Certificate
 
-![ViewCount](https://views.whatilearened.today/views/github/DanielBarnes18/IBM-Data-Science-Professional-Certification.svg?cache=remove)
+![ViewCount](https://views.whatilearened.today/views/github/Biangelica/-Data-Science-Professional-Certification.svg?cache=remove)
 ![GitHub top language](https://img.shields.io/github/languages/top/DanielBarnes18/IBM-Data-Science-Professional-Certificate?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/DanielBarnes18/IBM-Data-Science-Professional-Certificate?style=flat)
 
