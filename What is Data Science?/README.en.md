@@ -19,5 +19,8 @@ as data should be utilized to solve problems, craft narratives, and facilitate i
  
   ## 🏆 Certificates 
   To verify the certificates, click the images to follow the links.
+  
   <p align="middle">
-  <a href="https://coursera.org/share/b8a020e4a3322f7b1e4f0acc9d1dcf97">
+  <a href="https://coursera.org/share/b8a020e4a3322f7b1e4f0acc9d1dcf97"><img src="https://github.com/Biangelica/Data-Science-Professional-Certificate/assets/43317376/c4092958-f7e8-48a0-a4f8-67af24a10c32"height="430">
+    <a href="https://www.credly.com/badges/32d5bec7-29cc-4dc5-a9c9-979e89fec71c/public_url"><img src="https://github.com/Biangelica/Data-Science-Professional-Certificate/assets/43317376/c9faa86f-feed-4ae6-aa6d-060cdd8052b6"height="430">
+</p>
