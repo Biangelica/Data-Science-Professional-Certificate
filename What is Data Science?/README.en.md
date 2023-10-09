@@ -1,5 +1,8 @@
 # What is Data Science?
 
+## :speaker: Versão em Português
+Se você prefere ler o README em português, [clique aqui](README.pt.md).
+
 # :bookmark_tabs: Introduce
 The initial course in this 10-part series serves as an introduction to the field of data science. It elucidates the significance of data science and data scientists in our contemporary data-driven world. Additionally,
 the course delineates key topics within the field and showcases various applications of data science in the business domain.
@@ -19,8 +22,8 @@ as data should be utilized to solve problems, craft narratives, and facilitate i
  
   ## 🏆 Certificates 
   To verify the certificates, click the images to follow the links.
-  
+
   <p align="middle">
-  <a href="https://coursera.org/share/b8a020e4a3322f7b1e4f0acc9d1dcf97"><img src="https://github.com/Biangelica/Data-Science-Professional-Certificate/assets/43317376/c4092958-f7e8-48a0-a4f8-67af24a10c32"height="430">
-    <a href="https://www.credly.com/badges/32d5bec7-29cc-4dc5-a9c9-979e89fec71c/public_url"><img src="https://github.com/Biangelica/Data-Science-Professional-Certificate/assets/43317376/c9faa86f-feed-4ae6-aa6d-060cdd8052b6"height="430">
+  <a href="https://coursera.org/share/b8a020e4a3322f7b1e4f0acc9d1dcf97"><img src="https://github.com/Biangelica/Data-Science-Professional-Certificate/assets/43317376/c4092958-f7e8-48a0-a4f8-67af24a10c32"height="430"></a>
+  <a href="https://www.credly.com/badges/32d5bec7-29cc-4dc5-a9c9-979e89fec71c/public_url"><img src="https://github.com/Biangelica/Data-Science-Professional-Certificate/assets/43317376/c9faa86f-feed-4ae6-aa6d-060cdd8052b6"height="430"></a>
 </p>
