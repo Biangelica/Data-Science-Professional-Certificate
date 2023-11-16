@@ -19,3 +19,6 @@ SpaceX revolutionized the space industry by offering Falcon 9 rocket launches fo
 
 ## 🏆 Certificates 
   To verify the certificates, click the images to follow the links.
+  <p align="middle">
+  <a href="https://coursera.org/share/af43e4657f3b52e557905d81df3eaa77"><img src="https://github.com/Biangelica/Data-Science-Professional-Certificate/assets/43317376/81f2b6cc-379e-49ed-8158-3c68a5b97d12"height="430"></a>
+
